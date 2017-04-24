@@ -1,0 +1,1 @@
+COMC2740 Exercise 3e: Ch6 modify 3c: use static numbers
